@@ -1,0 +1,9 @@
+.ControlPanel {
+    width: 100%;
+    background-color: #EEEEEE;
+    height: 60px;
+}
+
+.Slider{
+    width: 90%;
+}
